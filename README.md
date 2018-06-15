@@ -22,4 +22,4 @@ API.getProviders()
 });
 ```
 
-More examples [here](example.js)x
+More examples [here](example.js)

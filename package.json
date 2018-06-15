@@ -1,0 +1,39 @@
+{
+  "name": "metrotransit-nodetrip",
+  "version": "0.0.1",
+  "description": "Node wrapper for Twin Cities' MetroTransit NexTrip real time transit API",
+  "main": "metrotransit-nodetrip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaron25mt/metrotransit-nodetrip.git"
+  },
+  "keywords": [
+    "metrotransit",
+    "metro",
+    "transit",
+    "twin",
+    "cities",
+    "minneapolis",
+    "st. paul",
+    "st paul",
+    "msp",
+    "minnesota",
+    "real time",
+    "real",
+    "time",
+    "train",
+    "bus"
+  ],
+  "author": "Aaron Thomas <aaron25mt@gmail.com> (http://aaronmthomas.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaron25mt/metrotransit-nodetrip/issues"
+  },
+  "homepage": "https://github.com/aaron25mt/metrotransit-nodetrip#readme",
+  "dependencies": {
+    "node-fetch": "^2.1.2"
+  }
+}
